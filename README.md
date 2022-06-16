@@ -1,12 +1,9 @@
 # M3U8-Scraper
-Python web scraper for downloading **M3U8** files designed with **Selenium** and **FFMPEG**. 
-<br>
-Visit the [wiki](https://github.com/cody-k/M3U8-Scraper/wiki) for more detailed information!
+Python web scraper for getting **M3U8** links on "**TRT İzle**" designed with **Requests** and **BeautifulSoup**. 
 
-<br> 
 
 # Important Information
-If requested I will add functionality to import lists of links from a text file, for now this scraper will go to one page and grab all the .m3u8 links avaliable.
+The program add lists of links from a text file.
 
 
 <br> The variables in the image below allow you to specifiy locations of where your chromedriver[^1] is, where you would like your files to be downloaded to, and what url you will be scraping.  <br> <br>
