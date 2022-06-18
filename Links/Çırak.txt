@@ -1,9 +1,0 @@
-Çırak 9.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/4365b2b6-fd6c-4320-a496-d4899f34c801/master720p.m3u8
-Çırak 8.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/c3431d62-b26c-4b87-935c-d0830167c0d7/master720p.m3u8
-Çırak 7.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/b09427f4-e4e7-4a66-b03c-9a71c795e3f8/master720p.m3u8
-Çırak 6.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/ff76fcdf-7af3-421e-82e8-f33f00979c47/master720p.m3u8
-Çırak 5.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/5b7b14c9-14b2-46ff-9f57-285bd69eb32a/master720p.m3u8
-Çırak 4.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/87d614e2-9dc4-429d-a92b-0258328cbd58/master720p.m3u8
-Çırak 3.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/d7fe360d-c87b-40fa-9637-1a6909ee76a7/master720p.m3u8
-Çırak 2.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/2e87620a-c5ea-482f-9798-852ed1ed2e1b/master720p.m3u8
-Çırak 1.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/185d6679-0a91-4370-ac2b-26d47b9271fd/master720p.m3u8

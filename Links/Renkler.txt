@@ -1,8 +1,0 @@
-Renkler 8.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/e4e08169-032d-420c-974e-583dddb30b62/master720p.m3u8
-Renkler 7.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/ef8fe2c7-0666-4751-b311-320e8115598d/master720p.m3u8
-Renkler 6.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/28ee395a-99d1-4eb8-b14a-401b44dade33/master720p.m3u8
-Renkler 5.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/47dd2179-2cca-425d-9ad6-faa3ed04d539/master720p.m3u8
-Renkler 4.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/f190b059-81d4-4314-a06a-d30e39691c5c/master720p.m3u8
-Renkler 3.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/7458108a-9812-410a-9dcd-f3abb977c584/master720p.m3u8
-Renkler 2.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/3a67a087-2a91-4e88-9679-1d7d85f1ca97/master720p.m3u8
-Renkler 1.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/fbc6e51a-68a5-4627-8b7c-8fb8834b69cd/master720p.m3u8
