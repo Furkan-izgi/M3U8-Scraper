@@ -1,13 +1,13 @@
-Geleneksel Evler 13.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/4f5664c3-316e-4622-82ed-56ebb7fd059e/master720p.m3u8
-Geleneksel Evler 12.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/b0574b28-2220-42cc-9bd9-57e733029c86/master720p.m3u8
-Geleneksel Evler 11.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/10077a74-f93b-4abb-90a3-6bba89c78946/master720p.m3u8
-Geleneksel Evler 10.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/931f1a01-0767-41ae-bb9a-4806982d5c1d/master720p.m3u8
-Geleneksel Evler 9.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/964abdd0-9afa-4502-9b2f-07d4210010d4/master720p.m3u8
-Geleneksel Evler 8.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/bae49c97-95e7-4f84-99f8-a1b5e126182e/master720p.m3u8
-Geleneksel Evler 7.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/68b4eebd-1081-4885-b254-f7daaf0c6787/master720p.m3u8
-Geleneksel Evler 6.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/cf2d3cb6-f558-48a5-9f77-a9ae7a3dfe3a/master720p.m3u8
-Geleneksel Evler 5.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/d90d740a-bed5-45b7-a543-6802868e1cfd/master720p.m3u8
-Geleneksel Evler 4.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/f73798f3-7424-475c-9e87-6d34936f86d8/master720p.m3u8
-Geleneksel Evler 3.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/6ca419e6-9aca-406a-b961-9a22e18eeedb/master720p.m3u8
-Geleneksel Evler 2.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/c7a05c08-7e8b-4283-9a48-7fff958e95cc/master720p.m3u8
-Geleneksel Evler 1.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/e7b6d7f9-d2ad-4942-a84e-2d67c19ff208/master720p.m3u8
+Geleneksel Evler 13.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/4f5664c3-316e-4622-82ed-56ebb7fd059e/master720p.m3u8
+Geleneksel Evler 12.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/b0574b28-2220-42cc-9bd9-57e733029c86/master720p.m3u8
+Geleneksel Evler 11.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/10077a74-f93b-4abb-90a3-6bba89c78946/master720p.m3u8
+Geleneksel Evler 10.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/931f1a01-0767-41ae-bb9a-4806982d5c1d/master720p.m3u8
+Geleneksel Evler 9.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/964abdd0-9afa-4502-9b2f-07d4210010d4/master720p.m3u8
+Geleneksel Evler 8.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/bae49c97-95e7-4f84-99f8-a1b5e126182e/master720p.m3u8
+Geleneksel Evler 7.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/68b4eebd-1081-4885-b254-f7daaf0c6787/master720p.m3u8
+Geleneksel Evler 6.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/cf2d3cb6-f558-48a5-9f77-a9ae7a3dfe3a/master720p.m3u8
+Geleneksel Evler 5.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/d90d740a-bed5-45b7-a543-6802868e1cfd/master720p.m3u8
+Geleneksel Evler 4.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/f73798f3-7424-475c-9e87-6d34936f86d8/master720p.m3u8
+Geleneksel Evler 3.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/6ca419e6-9aca-406a-b961-9a22e18eeedb/master720p.m3u8
+Geleneksel Evler 2.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/c7a05c08-7e8b-4283-9a48-7fff958e95cc/master720p.m3u8
+Geleneksel Evler 1.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/e7b6d7f9-d2ad-4942-a84e-2d67c19ff208/master720p.m3u8

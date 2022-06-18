@@ -1,20 +1,20 @@
-Suç Dosyası 20.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/f2ebf8c9-e3cb-4353-8cd7-73f349b5be90/master720p.m3u8
-Suç Dosyası 19.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/bde008b2-9c2a-43a5-a797-c397b0b0cd4d/master720p.m3u8
-Suç Dosyası 18.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/222f18a3-0815-472c-a3e5-4e151d51dcbf/master720p.m3u8
-Suç Dosyası 17.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/8ab13057-c6c1-4df0-a0f6-70718d45dc6c/master720p.m3u8
-Suç Dosyası 16.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/455bf44d-b7c0-41db-ba96-8b1850637dfc/master720p.m3u8
-Suç Dosyası 15.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/42117bc8-0c30-45a1-b06d-049c5098271b/master720p.m3u8
-Suç Dosyası 14.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/ce5d7287-48cc-4c30-a314-59eee455e8a5/master720p.m3u8
-Suç Dosyası 13.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/be084194-ba77-4c04-bc09-dd84fb35a88d/master720p.m3u8
-Suç Dosyası 12.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/e143ef53-79e3-4d26-b0a0-3c937474e1f0/master720p.m3u8
-Suç Dosyası 11.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/a823b966-6cad-4ec6-8e35-2e883aaca538/master720p.m3u8
-Suç Dosyası 10.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/461d95a4-0b49-4e59-bb04-3d8cfa62aad7/master720p.m3u8
-Suç Dosyası 9.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/85326214-8d8c-472c-a6c1-9b3375d4cd49/master720p.m3u8
-Suç Dosyası 8.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/4ca4ff96-10a4-4db1-86e6-c3da445c273a/master720p.m3u8
-Suç Dosyası 7.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/aae48224-5ff7-4c08-afd4-acaf5917c4ca/master720p.m3u8
-Suç Dosyası 6.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/24c8311a-7988-413c-98f9-4ab5197ac377/master720p.m3u8
-Suç Dosyası 5.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/afcf30f1-83c5-43e5-99d8-30f5b8968d25/master720p.m3u8
-Suç Dosyası 4.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/53a0fca0-82c5-4021-8c23-ee452fde2b45/master720p.m3u8
-Suç Dosyası 3.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/8178680e-d825-46fa-8f07-915b60193135/master720p.m3u8
-Suç Dosyası 2.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/a9e0b3a0-a484-4ae3-af7d-3016ff53f4ce/master720p.m3u8
-Suç Dosyası 1.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/008ed741-1ea8-40a0-9cd5-d7645b6c101b/master720p.m3u8
+Suç Dosyası 20.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/f2ebf8c9-e3cb-4353-8cd7-73f349b5be90/master720p.m3u8
+Suç Dosyası 19.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/bde008b2-9c2a-43a5-a797-c397b0b0cd4d/master720p.m3u8
+Suç Dosyası 18.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/222f18a3-0815-472c-a3e5-4e151d51dcbf/master720p.m3u8
+Suç Dosyası 17.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/8ab13057-c6c1-4df0-a0f6-70718d45dc6c/master720p.m3u8
+Suç Dosyası 16.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/455bf44d-b7c0-41db-ba96-8b1850637dfc/master720p.m3u8
+Suç Dosyası 15.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/42117bc8-0c30-45a1-b06d-049c5098271b/master720p.m3u8
+Suç Dosyası 14.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/ce5d7287-48cc-4c30-a314-59eee455e8a5/master720p.m3u8
+Suç Dosyası 13.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/be084194-ba77-4c04-bc09-dd84fb35a88d/master720p.m3u8
+Suç Dosyası 12.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/e143ef53-79e3-4d26-b0a0-3c937474e1f0/master720p.m3u8
+Suç Dosyası 11.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/a823b966-6cad-4ec6-8e35-2e883aaca538/master720p.m3u8
+Suç Dosyası 10.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/461d95a4-0b49-4e59-bb04-3d8cfa62aad7/master720p.m3u8
+Suç Dosyası 9.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/85326214-8d8c-472c-a6c1-9b3375d4cd49/master720p.m3u8
+Suç Dosyası 8.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/4ca4ff96-10a4-4db1-86e6-c3da445c273a/master720p.m3u8
+Suç Dosyası 7.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/aae48224-5ff7-4c08-afd4-acaf5917c4ca/master720p.m3u8
+Suç Dosyası 6.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/24c8311a-7988-413c-98f9-4ab5197ac377/master720p.m3u8
+Suç Dosyası 5.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/afcf30f1-83c5-43e5-99d8-30f5b8968d25/master720p.m3u8
+Suç Dosyası 4.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/53a0fca0-82c5-4021-8c23-ee452fde2b45/master720p.m3u8
+Suç Dosyası 3.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/8178680e-d825-46fa-8f07-915b60193135/master720p.m3u8
+Suç Dosyası 2.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/a9e0b3a0-a484-4ae3-af7d-3016ff53f4ce/master720p.m3u8
+Suç Dosyası 1.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/008ed741-1ea8-40a0-9cd5-d7645b6c101b/master720p.m3u8

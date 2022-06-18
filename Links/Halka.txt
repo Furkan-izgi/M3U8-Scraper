@@ -1,19 +1,19 @@
-Halka 19.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/24650ab4-e79d-4ece-b629-fd690bbc3783/master720p.m3u8
-Halka 18.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/848fbe21-2aa6-4876-b50c-e35d17967065/master720p.m3u8
-Halka 17.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/dc9d480a-da05-45a9-b9e5-99ae91d6bf79/master720p.m3u8
-Halka 16.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/63794059-f31d-4e37-b477-7df7053d02e6/master720p.m3u8
-Halka 15.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/7a388612-abdc-4008-ba23-f38d44821c24/master720p.m3u8
-Halka 14.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/cfa66f23-e85a-458f-953f-45547dabc224/master720p.m3u8
-Halka 13.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/574657f8-bd6b-4cf6-917b-c19292f5bceb/master720p.m3u8
-Halka 12.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/5c15f421-02b2-48da-90ae-111308dc5dc1/master720p.m3u8
-Halka 11.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/fa470740-7215-4052-b196-d56010caada4/master720p.m3u8
-Halka 10.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/0c1d78fe-df1f-4d79-9168-f81d11adc141/master720p.m3u8
-Halka 9.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/e7020ca1-d685-49b5-a721-ae6ddbd60d3a/master720p.m3u8
-Halka 8.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/0030d77e-b40e-4ba0-8548-2efe09c6580d/master720p.m3u8
-Halka 7.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/b4813336-cca5-4c2d-b159-394d3fe52e05/master720p.m3u8
-Halka 6.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/4363f7ad-741e-4253-a675-6550f48d0738/master720p.m3u8
-Halka 5.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/c1a57fbb-53e9-4eb6-ba3d-9b0dc1d37ff8/master720p.m3u8
-Halka 4.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/2d45f977-2419-45a9-8649-c5c61f0484f7/master720p.m3u8
-Halka 3.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/c10aa836-45d5-48e4-84ff-97c702195988/master720p.m3u8
-Halka 2.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/65405f6b-84b6-4d61-9b50-1b262162c8d3/master720p.m3u8
-Halka 1.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/hls/510a626f-8081-4d3f-8d98-7721a885f6b0/master720p.m3u8
+Halka 19.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/24650ab4-e79d-4ece-b629-fd690bbc3783/master720p.m3u8
+Halka 18.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/848fbe21-2aa6-4876-b50c-e35d17967065/master720p.m3u8
+Halka 17.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/dc9d480a-da05-45a9-b9e5-99ae91d6bf79/master720p.m3u8
+Halka 16.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/63794059-f31d-4e37-b477-7df7053d02e6/master720p.m3u8
+Halka 15.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/7a388612-abdc-4008-ba23-f38d44821c24/master720p.m3u8
+Halka 14.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/cfa66f23-e85a-458f-953f-45547dabc224/master720p.m3u8
+Halka 13.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/574657f8-bd6b-4cf6-917b-c19292f5bceb/master720p.m3u8
+Halka 12.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/5c15f421-02b2-48da-90ae-111308dc5dc1/master720p.m3u8
+Halka 11.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/fa470740-7215-4052-b196-d56010caada4/master720p.m3u8
+Halka 10.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/0c1d78fe-df1f-4d79-9168-f81d11adc141/master720p.m3u8
+Halka 9.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/e7020ca1-d685-49b5-a721-ae6ddbd60d3a/master720p.m3u8
+Halka 8.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/0030d77e-b40e-4ba0-8548-2efe09c6580d/master720p.m3u8
+Halka 7.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/b4813336-cca5-4c2d-b159-394d3fe52e05/master720p.m3u8
+Halka 6.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/4363f7ad-741e-4253-a675-6550f48d0738/master720p.m3u8
+Halka 5.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/c1a57fbb-53e9-4eb6-ba3d-9b0dc1d37ff8/master720p.m3u8
+Halka 4.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/2d45f977-2419-45a9-8649-c5c61f0484f7/master720p.m3u8
+Halka 3.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/c10aa836-45d5-48e4-84ff-97c702195988/master720p.m3u8
+Halka 2.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/65405f6b-84b6-4d61-9b50-1b262162c8d3/master720p.m3u8
+Halka 1.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/hls/510a626f-8081-4d3f-8d98-7721a885f6b0/master720p.m3u8

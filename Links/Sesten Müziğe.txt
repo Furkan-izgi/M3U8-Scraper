@@ -1,13 +1,13 @@
-Sesten Müziğe 13. Bölüm | Ses Teknolojisi: https://cdn-v.pr.trt.com.tr/trttv/website/967e2e76-6c39-415c-ad8e-7b6970177b38/master720p.m3u8
-Sesten Müziğe 12. Bölüm | Ritim: https://cdn-v.pr.trt.com.tr/trttv/website/42fcdd1a-6e9a-4249-afb2-63ac3e2cb1e7/master720p.m3u8
-Sesten Müziğe 11. Bölüm | Türk Müziği: https://cdn-v.pr.trt.com.tr/trttv/website/39775c76-189e-43a5-b185-b3428d9503e6/master720p.m3u8
-Sesten Müziğe 10. Bölüm | Müzik Enstrümanları: https://cdn-v.pr.trt.com.tr/trttv/website/5a687b59-1872-4e05-b902-ca279b4ce1d9/master720p.m3u8
-Sesten Müziğe 9. Bölüm | Sesin Çeşitli Alanlarda Kullanımı: https://cdn-v.pr.trt.com.tr/trttv/website/d1ea2820-960c-4444-a7af-109d82a7b593/master720p.m3u8
-Sesten Müziğe 8. Bölüm | Müzikle Tedavi: https://cdn-v.pr.trt.com.tr/trttv/website/35779bd0-ec46-4da7-84de-375e2822d68b/master720p.m3u8
-Sesten Müziğe 7. Bölüm | Akustik: https://cdn-v.pr.trt.com.tr/trttv/website/798e5a04-1d03-4de0-8c40-05e8f35cd5eb/master720p.m3u8
-Sesten Müziğe 6. Bölüm | Notalar: https://cdn-v.pr.trt.com.tr/trttv/website/a004151f-dc9b-44d4-a1bf-1576201e9f55/master720p.m3u8
-Sesten Müziğe 5. Bölüm | Açıklanamayan Sesler: https://cdn-v.pr.trt.com.tr/trttv/website/471ad461-6b27-44fc-ab26-65ef3ffbe6bd/master720p.m3u8
-Sesten Müziğe 4. Bölüm | Ses ve Manipülasyon: https://cdn-v.pr.trt.com.tr/trttv/website/b91ced45-fadd-4609-9fec-6dd517a87f29/master720p.m3u8
-Sesten Müziğe 3. Bölüm | Armonikler: https://cdn-v.pr.trt.com.tr/trttv/website/59cd714b-2a6b-4909-b94c-38eb63359392/master720p.m3u8
-Sesten Müziğe 2. Bölüm | Dalga Boyu: https://cdn-v.pr.trt.com.tr/trttv/website/f1f6ecfd-e36a-4940-839d-f1765bfafb51/master720p.m3u8
-Sesten Müziğe 1. Bölüm | Ses Nedir?: https://cdn-v.pr.trt.com.tr/trttv/website/e8368064-cab1-436c-8fab-9b8cc6e7c0a7/master720p.m3u8
+Sesten Müziğe 13. Bölüm - Ses Teknolojisi|https://cdn-v.pr.trt.com.tr/trttv/website/967e2e76-6c39-415c-ad8e-7b6970177b38/master720p.m3u8
+Sesten Müziğe 12. Bölüm - Ritim|https://cdn-v.pr.trt.com.tr/trttv/website/42fcdd1a-6e9a-4249-afb2-63ac3e2cb1e7/master720p.m3u8
+Sesten Müziğe 11. Bölüm - Türk Müziği|https://cdn-v.pr.trt.com.tr/trttv/website/39775c76-189e-43a5-b185-b3428d9503e6/master720p.m3u8
+Sesten Müziğe 10. Bölüm - Müzik Enstrümanları|https://cdn-v.pr.trt.com.tr/trttv/website/5a687b59-1872-4e05-b902-ca279b4ce1d9/master720p.m3u8
+Sesten Müziğe 9. Bölüm - Sesin Çeşitli Alanlarda Kullanımı|https://cdn-v.pr.trt.com.tr/trttv/website/d1ea2820-960c-4444-a7af-109d82a7b593/master720p.m3u8
+Sesten Müziğe 8. Bölüm - Müzikle Tedavi|https://cdn-v.pr.trt.com.tr/trttv/website/35779bd0-ec46-4da7-84de-375e2822d68b/master720p.m3u8
+Sesten Müziğe 7. Bölüm - Akustik|https://cdn-v.pr.trt.com.tr/trttv/website/798e5a04-1d03-4de0-8c40-05e8f35cd5eb/master720p.m3u8
+Sesten Müziğe 6. Bölüm - Notalar|https://cdn-v.pr.trt.com.tr/trttv/website/a004151f-dc9b-44d4-a1bf-1576201e9f55/master720p.m3u8
+Sesten Müziğe 5. Bölüm - Açıklanamayan Sesler|https://cdn-v.pr.trt.com.tr/trttv/website/471ad461-6b27-44fc-ab26-65ef3ffbe6bd/master720p.m3u8
+Sesten Müziğe 4. Bölüm - Ses ve Manipülasyon|https://cdn-v.pr.trt.com.tr/trttv/website/b91ced45-fadd-4609-9fec-6dd517a87f29/master720p.m3u8
+Sesten Müziğe 3. Bölüm - Armonikler|https://cdn-v.pr.trt.com.tr/trttv/website/59cd714b-2a6b-4909-b94c-38eb63359392/master720p.m3u8
+Sesten Müziğe 2. Bölüm - Dalga Boyu|https://cdn-v.pr.trt.com.tr/trttv/website/f1f6ecfd-e36a-4940-839d-f1765bfafb51/master720p.m3u8
+Sesten Müziğe 1. Bölüm - Ses Nedir?|https://cdn-v.pr.trt.com.tr/trttv/website/e8368064-cab1-436c-8fab-9b8cc6e7c0a7/master720p.m3u8

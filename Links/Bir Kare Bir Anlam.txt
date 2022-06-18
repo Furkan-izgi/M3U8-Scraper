@@ -1,12 +1,12 @@
-Bir Kare Bir Anlam 12.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/3a366303-8ac7-4af2-ba5c-58f111b09834/master720p.m3u8
-Bir Kare Bir Anlam 11.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/2043ecd6-1bda-4316-949f-13ca95b4a4e1/master720p.m3u8
-Bir Kare Bir Anlam 10.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/97c9da58-759b-4781-ae58-2bfa4455a1c1/master720p.m3u8
-Bir Kare Bir Anlam 9.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/7762937e-90ac-4fe8-9165-2025d19a45a0/master720p.m3u8
-Bir Kare Bir Anlam 8.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/c755f763-4cdc-4f44-9706-af4e74aac665/master720p.m3u8
-Bir Kare Bir Anlam 7.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/ae0a7d53-1457-47ff-9360-734a58d64fbf/master720p.m3u8
-Bir Kare Bir Anlam 6.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/5f2407ee-301e-4286-9f54-0cf572df0a93/master720p.m3u8
-Bir Kare Bir Anlam 5.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/d6508ee9-217e-4fa5-8596-9633ac2b8c23/master720p.m3u8
-Bir Kare Bir Anlam 4.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/20686fd2-41b0-4900-b6b6-a5d020dc09bb/master720p.m3u8
-Bir Kare Bir Anlam 3.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/94d5fc93-b826-4f97-a3f9-b416a4c7e6b2/master720p.m3u8
-Bir Kare Bir Anlam 2.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/8134db6a-795f-461b-8df8-7a32c1700fa1/master720p.m3u8
-Bir Kare Bir Anlam 1.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/98c9e25a-d067-44a1-9fca-31c81d012d18/master720p.m3u8
+Bir Kare Bir Anlam 12.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/3a366303-8ac7-4af2-ba5c-58f111b09834/master720p.m3u8
+Bir Kare Bir Anlam 11.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/2043ecd6-1bda-4316-949f-13ca95b4a4e1/master720p.m3u8
+Bir Kare Bir Anlam 10.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/97c9da58-759b-4781-ae58-2bfa4455a1c1/master720p.m3u8
+Bir Kare Bir Anlam 9.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/7762937e-90ac-4fe8-9165-2025d19a45a0/master720p.m3u8
+Bir Kare Bir Anlam 8.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/c755f763-4cdc-4f44-9706-af4e74aac665/master720p.m3u8
+Bir Kare Bir Anlam 7.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/ae0a7d53-1457-47ff-9360-734a58d64fbf/master720p.m3u8
+Bir Kare Bir Anlam 6.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/5f2407ee-301e-4286-9f54-0cf572df0a93/master720p.m3u8
+Bir Kare Bir Anlam 5.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/d6508ee9-217e-4fa5-8596-9633ac2b8c23/master720p.m3u8
+Bir Kare Bir Anlam 4.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/20686fd2-41b0-4900-b6b6-a5d020dc09bb/master720p.m3u8
+Bir Kare Bir Anlam 3.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/94d5fc93-b826-4f97-a3f9-b416a4c7e6b2/master720p.m3u8
+Bir Kare Bir Anlam 2.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/8134db6a-795f-461b-8df8-7a32c1700fa1/master720p.m3u8
+Bir Kare Bir Anlam 1.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/98c9e25a-d067-44a1-9fca-31c81d012d18/master720p.m3u8

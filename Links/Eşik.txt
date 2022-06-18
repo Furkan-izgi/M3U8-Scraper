@@ -1,26 +1,26 @@
-Eşik 26.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/484cb2f3-48de-42e6-9ac4-474d3110d2d6/master720p.m3u8
-Eşik 25.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/ac6d4a91-c8c8-4126-bcfe-2ed73bc0a9f8/master720p.m3u8
-Eşik 24.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/d309507c-f365-4702-8041-f883158356d8/master720p.m3u8
-Eşik 23.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/6815bb46-3056-47a3-9b62-7396de6fd633/master720p.m3u8
-Eşik 22.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/78f582df-913f-4460-bbac-4252e5a7f068/master720p.m3u8
-Eşik 21.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/6e7b56f6-19e6-4862-a7c7-5c20301d4a9e/master720p.m3u8
-Eşik 20.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/542b7bbd-1066-4cd3-9649-caa05f2c01dd/master720p.m3u8
-Eşik 19.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/a25ff793-dc48-4c11-9ab5-f4cba63a4f96/master720p.m3u8
-Eşik 18.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/1d3dd593-fa48-4234-af50-f4a5bb3a597f/master720p.m3u8
-Eşik 17.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/56d054dd-f144-4903-b735-7e95c485b8fb/master720p.m3u8
-Eşik 16.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/efc7582b-8bad-48a4-8296-4910ffe2fc8d/master720p.m3u8
-Eşik 15.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/8fe4d25f-5e21-4235-8af3-bd37a118beea/master720p.m3u8
-Eşik 14.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/5d687959-fc7f-45e8-a7da-e47cfce53c81/master720p.m3u8
-Eşik 13.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/c17ea504-36b6-49db-944e-4c14f920ca1d/master720p.m3u8
-Eşik 12.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/fb0c9410-7912-46a6-937d-f5e1cef2415f/master720p.m3u8
-Eşik 11.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/a7b0caaf-f2ba-451e-b16b-b73da7e048ae/master720p.m3u8
-Eşik 10.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/4f67d0c7-939c-4600-9e5b-734fbb850a67/master720p.m3u8
-Eşik 9.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/9cca40be-2d1f-45f6-a6a6-d55d54a51387/master720p.m3u8
-Eşik 8.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/8522bd70-a03c-47ff-b27c-86cbec88cea6/master720p.m3u8
-Eşik 7.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/6d53a222-43b7-4427-8268-78e17a8fbcbb/master720p.m3u8
-Eşik 6.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/d493dcd8-ade8-4a97-b79e-83b8ca6716d8/master720p.m3u8
-Eşik 5.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/6aaebf09-011b-4f04-80b2-cc3ae789b2ef/master720p.m3u8
-Eşik 4.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/71697e02-bf62-4883-807e-3f4660ce58fe/master720p.m3u8
-Eşik 3.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/62f030e2-d690-492e-b0d9-57f6c00eed81/master720p.m3u8
-Eşik 2.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/8926816d-f5cc-4e17-b96d-4647c206d656/master720p.m3u8
-Eşik 1.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/b74d738a-cf8b-4a8c-9739-3bb3807d26af/master720p.m3u8
+Eşik 26.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/484cb2f3-48de-42e6-9ac4-474d3110d2d6/master720p.m3u8
+Eşik 25.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/ac6d4a91-c8c8-4126-bcfe-2ed73bc0a9f8/master720p.m3u8
+Eşik 24.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/d309507c-f365-4702-8041-f883158356d8/master720p.m3u8
+Eşik 23.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/6815bb46-3056-47a3-9b62-7396de6fd633/master720p.m3u8
+Eşik 22.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/78f582df-913f-4460-bbac-4252e5a7f068/master720p.m3u8
+Eşik 21.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/6e7b56f6-19e6-4862-a7c7-5c20301d4a9e/master720p.m3u8
+Eşik 20.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/542b7bbd-1066-4cd3-9649-caa05f2c01dd/master720p.m3u8
+Eşik 19.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/a25ff793-dc48-4c11-9ab5-f4cba63a4f96/master720p.m3u8
+Eşik 18.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/1d3dd593-fa48-4234-af50-f4a5bb3a597f/master720p.m3u8
+Eşik 17.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/56d054dd-f144-4903-b735-7e95c485b8fb/master720p.m3u8
+Eşik 16.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/efc7582b-8bad-48a4-8296-4910ffe2fc8d/master720p.m3u8
+Eşik 15.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/8fe4d25f-5e21-4235-8af3-bd37a118beea/master720p.m3u8
+Eşik 14.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/5d687959-fc7f-45e8-a7da-e47cfce53c81/master720p.m3u8
+Eşik 13.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/c17ea504-36b6-49db-944e-4c14f920ca1d/master720p.m3u8
+Eşik 12.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/fb0c9410-7912-46a6-937d-f5e1cef2415f/master720p.m3u8
+Eşik 11.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/a7b0caaf-f2ba-451e-b16b-b73da7e048ae/master720p.m3u8
+Eşik 10.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/4f67d0c7-939c-4600-9e5b-734fbb850a67/master720p.m3u8
+Eşik 9.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/9cca40be-2d1f-45f6-a6a6-d55d54a51387/master720p.m3u8
+Eşik 8.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/8522bd70-a03c-47ff-b27c-86cbec88cea6/master720p.m3u8
+Eşik 7.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/6d53a222-43b7-4427-8268-78e17a8fbcbb/master720p.m3u8
+Eşik 6.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/d493dcd8-ade8-4a97-b79e-83b8ca6716d8/master720p.m3u8
+Eşik 5.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/6aaebf09-011b-4f04-80b2-cc3ae789b2ef/master720p.m3u8
+Eşik 4.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/71697e02-bf62-4883-807e-3f4660ce58fe/master720p.m3u8
+Eşik 3.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/62f030e2-d690-492e-b0d9-57f6c00eed81/master720p.m3u8
+Eşik 2.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/8926816d-f5cc-4e17-b96d-4647c206d656/master720p.m3u8
+Eşik 1.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/b74d738a-cf8b-4a8c-9739-3bb3807d26af/master720p.m3u8

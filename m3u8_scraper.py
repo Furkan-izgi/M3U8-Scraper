@@ -80,7 +80,7 @@ class M3U8Scrapper:
         
         scrapper.getM3U8Links(episode_list)
         """      
-        
+        os.remove("Links/"+ filename + ".txt")
         for episode in episode_links:   
             source = requests.get(episode)
             code = BeautifulSoup(source.text, "html.parser") 
@@ -93,8 +93,9 @@ class M3U8Scrapper:
                 
             episode_link = listt["contentUrl"].replace("master","master720p")
             episode_name = listt["name"]
+
             with open("Links/" + filename + ".txt", "a") as f:
-                f.write(episode_name + ": " + episode_link + "\n")
+                f.write(episode_name + "|" + episode_link + "\n")
             episode_m3u8_links.append(episode_link)
             print(f"{bcolors.ITALIC}{bcolors.WARNING}Çekilen Bölüm:{bcolors.ENDC} {episode_name}")
             
@@ -109,8 +110,8 @@ if __name__ == "__main__":
     
     filename = input(bcolors.OKGREEN + "Dizi veya İçerik Adı: " + bcolors.ENDC)
     linkofseries = input(f"{bcolors.OKBLUE}Linki giriniz: {bcolors.ENDC}")   
-    choose = input(f"{bcolors.OKBLUE}İçerik tipi: {bcolors.ENDC}")
-    scrapper = M3U8Scrapper()
+    choose = input(f"{bcolors.OKBLUE}İçerik tipi(dizi/film): {bcolors.ENDC}")
+    scrapper = M3U8Scrapper(linkofseries)
     
     if choose == "dizi":
         episode_links = scrapper.getEpisodes(linkofseries) 

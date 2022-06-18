@@ -1,11 +1,11 @@
-Uslu Duramayanlar 11.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/424c622b-5dc7-4de4-b53b-2097cad35d57/master720p.m3u8
-Uslu Duramayanlar 10.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/dc20cb21-ea07-4ac6-8f47-aff8d3399a75/master720p.m3u8
-Uslu Duramayanlar 9.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/cbdb0c27-5c69-486c-b4cf-de8314989651/master720p.m3u8
-Uslu Duramayanlar 8.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/02297354-05f8-4f40-aab1-7016c259716d/master720p.m3u8
-Uslu Duramayanlar 7.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/b5389a99-1412-458c-b744-19f8ef213f5a/master720p.m3u8
-Uslu Duramayanlar 6.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/4108d96a-8ebb-47df-b5f9-075938af9eac/master720p.m3u8
-Uslu Duramayanlar 5.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/81aa0db2-6107-42ef-9863-bc8a4571a267/master720p.m3u8
-Uslu Duramayanlar 4.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/8f3b836e-1206-47d8-acd6-f4ebfefa8322/master720p.m3u8
-Uslu Duramayanlar 3.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/e6bbab91-17f3-4f78-90ec-6a27aac45a77/master720p.m3u8
-Uslu Duramayanlar 2.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/0e9b32ad-4b90-4a2f-b738-c4c1d0351c72/master720p.m3u8
-Uslu Duramayanlar 1.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/c433ac68-a08a-4df0-aab3-5dca55e0ded9/master720p.m3u8
+Uslu Duramayanlar 11.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/424c622b-5dc7-4de4-b53b-2097cad35d57/master720p.m3u8
+Uslu Duramayanlar 10.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/dc20cb21-ea07-4ac6-8f47-aff8d3399a75/master720p.m3u8
+Uslu Duramayanlar 9.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/cbdb0c27-5c69-486c-b4cf-de8314989651/master720p.m3u8
+Uslu Duramayanlar 8.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/02297354-05f8-4f40-aab1-7016c259716d/master720p.m3u8
+Uslu Duramayanlar 7.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/b5389a99-1412-458c-b744-19f8ef213f5a/master720p.m3u8
+Uslu Duramayanlar 6.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/4108d96a-8ebb-47df-b5f9-075938af9eac/master720p.m3u8
+Uslu Duramayanlar 5.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/81aa0db2-6107-42ef-9863-bc8a4571a267/master720p.m3u8
+Uslu Duramayanlar 4.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/8f3b836e-1206-47d8-acd6-f4ebfefa8322/master720p.m3u8
+Uslu Duramayanlar 3.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/e6bbab91-17f3-4f78-90ec-6a27aac45a77/master720p.m3u8
+Uslu Duramayanlar 2.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/0e9b32ad-4b90-4a2f-b738-c4c1d0351c72/master720p.m3u8
+Uslu Duramayanlar 1.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/c433ac68-a08a-4df0-aab3-5dca55e0ded9/master720p.m3u8

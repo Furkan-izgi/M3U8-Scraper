@@ -1,13 +1,13 @@
-Geleneksel Kıyafetler 13.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/702ae918-d25e-4e3e-bef4-d223536a7fd0/master720p.m3u8
-Geleneksel Kıyafetler 12.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/097a97bf-2c73-46cf-a937-7f13e1d64f22/master720p.m3u8
-Geleneksel Kıyafetler 11.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/d807bb72-f853-4ea7-bb8d-b5e76448d08c/master720p.m3u8
-Geleneksel Kıyafetler 10.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/cbe1ce10-4362-4f60-8b68-aee98b53fb86/master720p.m3u8
-Geleneksel Kıyafetler 9.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/81f01e65-ec99-4a93-9dbe-b1b1d7fd0705/master720p.m3u8
-Geleneksel Kıyafetler 8.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/f11bd49c-834a-4e8f-8b8f-5360771b6919/master720p.m3u8
-Geleneksel Kıyafetler 7.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/22fe3ee2-e8dd-4481-897a-471a71e5ad06/master720p.m3u8
-Geleneksel Kıyafetler 6.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/f46b8efc-971b-4e42-90b1-e3b486fb2657/master720p.m3u8
-Geleneksel Kıyafetler 5.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/caa4e95d-0e93-44a1-afa7-ee6ce54d475c/master720p.m3u8
-Geleneksel Kıyafetler 4.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/88250441-e074-4ed2-afd1-f5ce5560db40/master720p.m3u8
-Geleneksel Kıyafetler 3.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/e568ff90-b01f-4013-89cf-59ba49ee511b/master720p.m3u8
-Geleneksel Kıyafetler 2.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/ecb34460-3f89-4b46-976d-c0c8e59f6c32/master720p.m3u8
-Geleneksel Kıyafetler 1.Bölüm: https://cdn-v.pr.trt.com.tr/trttv/website/c1ae3d79-262c-4b1f-9edc-97bdf2c9d899/master720p.m3u8
+Geleneksel Kıyafetler 13.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/702ae918-d25e-4e3e-bef4-d223536a7fd0/master720p.m3u8
+Geleneksel Kıyafetler 12.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/097a97bf-2c73-46cf-a937-7f13e1d64f22/master720p.m3u8
+Geleneksel Kıyafetler 11.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/d807bb72-f853-4ea7-bb8d-b5e76448d08c/master720p.m3u8
+Geleneksel Kıyafetler 10.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/cbe1ce10-4362-4f60-8b68-aee98b53fb86/master720p.m3u8
+Geleneksel Kıyafetler 9.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/81f01e65-ec99-4a93-9dbe-b1b1d7fd0705/master720p.m3u8
+Geleneksel Kıyafetler 8.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/f11bd49c-834a-4e8f-8b8f-5360771b6919/master720p.m3u8
+Geleneksel Kıyafetler 7.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/22fe3ee2-e8dd-4481-897a-471a71e5ad06/master720p.m3u8
+Geleneksel Kıyafetler 6.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/f46b8efc-971b-4e42-90b1-e3b486fb2657/master720p.m3u8
+Geleneksel Kıyafetler 5.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/caa4e95d-0e93-44a1-afa7-ee6ce54d475c/master720p.m3u8
+Geleneksel Kıyafetler 4.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/88250441-e074-4ed2-afd1-f5ce5560db40/master720p.m3u8
+Geleneksel Kıyafetler 3.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/e568ff90-b01f-4013-89cf-59ba49ee511b/master720p.m3u8
+Geleneksel Kıyafetler 2.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/ecb34460-3f89-4b46-976d-c0c8e59f6c32/master720p.m3u8
+Geleneksel Kıyafetler 1.Bölüm|https://cdn-v.pr.trt.com.tr/trttv/website/c1ae3d79-262c-4b1f-9edc-97bdf2c9d899/master720p.m3u8
